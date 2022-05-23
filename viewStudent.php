@@ -8,7 +8,7 @@ require "header.php";
 ?>
 <div class="container">
 	<div class="card mt-4">
-		<div class="card-header"><h2>all registed student</h2></div>
+		<div class="card-header"><h2>Registered Students</h2></div>
 		<div class="card-body">
            <table class="table table-bordered" >
 			   <tr>
