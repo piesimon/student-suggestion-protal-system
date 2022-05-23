@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>SUGGESTION SYSTEM</title>
+    <title>Login Page</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,17 +19,17 @@
 <form method="post" action="login_verify2.php">
 <div class="form-group">
         <label for="name">Registration number</label>
-        <input type="text" name="regno" id="id" class="form-control" placeholder="Registration number">
+        <input type="text" name="regno" id="id" class="form-control" placeholder="Enter your Registration number">
 </div>
 
 <div class="form-group">
         <label for="password">Password</label>
-        <input type="password" name="password" id="id" class="form-control" placeholder="password">
+        <input type="password" name="password" id="id" class="form-control" placeholder="Enter your password">
 </div>
 <div class="form-group">
     <button type="submit"  class="btn btn-info" name="login"> Login</button>
-    <button type="reset" class="btn btn-info" > clear</button><br>
-     if you don't have registed click here: <a href="register.php">Signup</a>
+    <button type="reset" class="btn btn-info" > Clear</button><br>
+     Click here for new account: <a href="register.php">Signup</a>
 </div>
 </form>
 </div>
