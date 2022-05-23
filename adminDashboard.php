@@ -8,7 +8,7 @@ require "header.php";
 ?>
 <div class="container">
 	<div class="card mt-4">
-		<div class="card-header"><h2>all Ideas from students</h2></div>
+		<div class="card-header"><h2>All Students Ideas</h2></div>
 		<div class="card-body">
            <table class="table table-bordered" width="100" >
 			   <tr>
@@ -27,8 +27,8 @@ require "header.php";
                     <td><?=$p->date_created;   ?></td>
 					<td>
 <a href="view.php?id=<?=$p->id ; ?>" class="btn btn-info">view</a>
-<a onclick="return confirm('are you sure you want to delete this entry')" 
-href="delete.php?id=<?=$p->id ;?>" class="btn btn-danger"> delete</a>
+<a onclick="return confirm('Are you sure you want to delete this entry???')" 
+href="delete.php?id=<?=$p->id ;?>" class="btn btn-danger"> Delete</a>
                    </td>
 				   </tr>
 
