@@ -32,7 +32,7 @@ if(isset ($_POST['fname']) && isset($_POST['lname']) && isset($_POST['regno']) &
 	<?php endif; ?>
 	<form method="post">
 		<div class="form-group">
-			<label for="name"> First name</label>
+			<label for="name">First name</label>
 			<input value="<?= $person->fname; ?>" type="text" name="fname" id="name" class="form-control">
 	</div>
 	<div class="form-group">
@@ -48,8 +48,8 @@ if(isset ($_POST['fname']) && isset($_POST['lname']) && isset($_POST['regno']) &
 <input value="<?= $person->password; ?>" type="text" name="password" id="email" class="form-control">
 	</div>
 	<div class="form-group">
-		<button type="submit" class="btn btn-info">update student</button>
-		<a href="viewStudent.php"  class="btn btn-info">back</a>
+		<button type="submit" class="btn btn-info">Update student</button>
+		<a href="viewStudent.php"  class="btn btn-info">Back</a>
 	</div>
 	</form>
 	</div>
