@@ -61,7 +61,8 @@ padding: 100px 30px;
 </nav>
 <div class="mama">
 <p>   This system help students to send their ideas to school student <br>
-                     affair office in easy way
+                     affair office in easy way and help student affair office
+                     to view the student suggestion
 
 <br>
 

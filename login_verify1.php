@@ -11,7 +11,7 @@
       $connect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
       if($connect)
       {
-         // echo'success';
+         //echo'success';
       }
      // $username = $_POST['username'];
    // $password = $_POST['password'];  
