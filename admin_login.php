@@ -15,7 +15,7 @@
 
         <div class="card-header">
 
-            <h2> Admin Login pages</h2>
+            <h2> Admin Loginv page</h2>
 </div>
 
 <div class="card-body">
