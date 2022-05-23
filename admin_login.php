@@ -21,7 +21,7 @@
 <div class="card-body">
 <form method="post" action="login_verify1.php">
 <div class="form-group">
-        <label for="name">Username</label>
+        <label for="name">Usernames</label>
         <input type="text" name="username" id="id" class="form-control" placeholder="username">
 </div>
 
