@@ -1,5 +1,5 @@
 <?php
-$host = '127.0.0.1';
+$host = 'localhost';
 $db   = 'iprc_tumba';
 $user ='root';
 $pass ='';
