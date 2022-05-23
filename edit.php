@@ -32,7 +32,7 @@ if(isset ($_POST['fname']) && isset($_POST['lname']) && isset($_POST['regno']) &
 	<?php endif; ?>
 	<form method="post">
 		<div class="form-group">
-			<label for="name"> Firstname</label>
+			<label for="name"> First name</label>
 			<input value="<?= $person->fname; ?>" type="text" name="fname" id="name" class="form-control">
 	</div>
 	<div class="form-group">
