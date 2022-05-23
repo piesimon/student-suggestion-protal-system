@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>SUGGESTION SYSTEM</title>
+    <title>Student Suggestion Portal System</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,7 +19,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
     <li class="nav-item">
-        <a class="nav-link" href="viewStudent.php">List of registed student</a>
+        <a class="nav-link" href="viewStudent.php">Registered Student List</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="logout.php">Logout</a>
