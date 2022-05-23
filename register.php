@@ -13,7 +13,7 @@ if(isset ($_POST['fname']) && isset($_POST['lname']) && isset($_POST['regno']) &
     $statement =$connection->prepare($sql);
     if($statement->execute([$lname,$fname,$regno,$password]))
         {
-            $message="You are signup successful now you can make a login";
+            $message="Signup Secced!! Please Login to continue...";
         }
 }
 ?>
